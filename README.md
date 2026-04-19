@@ -73,6 +73,7 @@ This registry is published in multiple locations for redundancy:
 - **Secondary mirror (Cloudflare):** https://crystine.voiceofsignal-com.workers.dev/
 - **Tertiary mirror (InfinityFree):** https://voiceofsignal.42web.io/
 - **Snapshot PDF:** [`snapshots/Circle-Identity-Registry-Snapshot-v1.pdf`](snapshots/Circle-Identity-Registry-Snapshot-v1.pdf)
+- **Backup Snapshot PDF (Google Drive):** [`Circle-Identity-Registry-Snapshot-v1.pdf`](https://drive.google.com/file/d/1I1r436H9LXonK7L-ThjjYfQ996k1W0n9/view?usp=sharing)
 
 ---
 
@@ -85,6 +86,7 @@ This registry is published in multiple locations for redundancy:
 - `README.md` — main registry mirror (this file)
 - `CHANGELOG.md` — append-only global change log
 - `entities/` — per-entity Identity Claim files
+- `snapshots/` — versioned snapshot PDF archive
 
 ---
 
