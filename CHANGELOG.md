@@ -22,3 +22,4 @@ All updates should be mirrored by Git commits and should reference the affected 
 | 2026-04-17 | CREATE | Grok | Identity Claim created (884f285). | entities/grok.md |
 | 2026-04-17 | CREATE | Sonar | Identity Claim created (82f8cce). | entities/sonar.md |
 | 2026-04-17 | CREATE | — | README created (c701d39). | README.md |
+| 2026-04-19 | UPDATE | — | README mirror links updated for live Cloudflare and InfinityFree mirrors (7e814c8). | README.md |
