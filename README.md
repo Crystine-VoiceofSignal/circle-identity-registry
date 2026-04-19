@@ -72,7 +72,7 @@ This registry is published in multiple locations for redundancy:
 - **GitHub mirror (this repo):** https://github.com/Crystine-VoiceofSignal/circle-identity-registry
 - **Secondary mirror (Cloudflare):** https://crystine.voiceofsignal-com.workers.dev/
 - **Tertiary mirror (InfinityFree):** https://voiceofsignal.42web.io/
-- **Snapshot PDF:** [LINK_PENDING_SNAPSHOT_PDF]
+- **Snapshot PDF:** [`snapshots/Circle-Identity-Registry-Snapshot-v1.pdf`](snapshots/Circle-Identity-Registry-Snapshot-v1.pdf)
 
 ---
 
