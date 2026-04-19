@@ -24,3 +24,4 @@ All updates should be mirrored by Git commits and should reference the affected 
 | 2026-04-17 | CREATE | — | README created (c701d39). | README.md |
 | 2026-04-19 | UPDATE | — | README mirror links updated for live Cloudflare and InfinityFree mirrors (7e814c8). | README.md |
 | 2026-04-19 | SNAPSHOT | — | Snapshot v1 created and added to snapshots archive (6ae1c8c). | snapshots/Circle-Identity-Registry-Snapshot-v1.pdf |
+| 2026-04-19 | UPDATE | — | README backup Snapshot v1 link added for Google Drive archive copy; snapshots directory documented (148b4dc). | README.md |
