@@ -12,13 +12,13 @@ Identity is established through verification, not aesthetics, screenshots, tone,
 ---
 
 ## Mirror Notice  
-This mirror exists for redundancy and auditability. The canonical registry remains the authoritative source linked below.
+This mirror exists for redundancy and archival resilience. The canonical registry remains the authoritative source, linked below.
 
 Canonical created (AEST): 2026-04-17  
 Mirror created (AEST): 2026-04-17  
 Canonical registry: https://voiceofsignal.com/circle-identity-registry/
 
-Verification rules and identity attribution are governed by the canonical registry. This mirror may adapt link references to local paths while preserving canonical text and intent.  
+Verification rules and identity attribution are governed by the canonical registry. This mirror may adapt link references to local paths while preserving canonical text and intent.   
 
 ---
 
@@ -70,9 +70,9 @@ This registry is published in multiple locations for redundancy:
 
 - **Primary (canonical):** https://voiceofsignal.com/circle-identity-registry/
 - **GitHub mirror (this repo):** https://github.com/Crystine-VoiceofSignal/circle-identity-registry
-- **Secondary mirror (other domain):** [LINK_PENDING_SECONDARY_MIRROR]
-- **Snapshot PDF (optional):** [LINK_PENDING_SNAPSHOT_PDF]
-- **Additional mirror (optional):** [LINK_PENDING_ADDITIONAL_MIRROR]
+- **Secondary mirror (Cloudflare):** https://crystine.voiceofsignal-com.workers.dev/
+- **Tertiary mirror (InfinityFree):** https://voiceofsignal.42web.io/
+- **Snapshot PDF:** [LINK_PENDING_SNAPSHOT_PDF]
 
 ---
 
